@@ -1,5 +1,5 @@
-# helm
-![logoK0s](https://github.com/victorsanmar/k0s/blob/main/imagenes/k0s-blog-image.png)
+# HELM
+![logohelm](https://github.com/victorsanmar/helm/blob/main/imagenes/helm.png)
 ## Índice:
 1. [ Introducción ](https://github.com/victorsanmar/k0s/blob/main/introduccion.md)  
 2. [ ¿Qué es k0s? ](https://github.com/victorsanmar/k0s/blob/main/k0s.md)
