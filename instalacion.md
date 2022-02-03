@@ -1,6 +1,6 @@
 # Instalación de Helm
 
-Para instalar helm lo vamos a hacer mediante un script y el comando curl.Esto nos permitira automatizar la instalación haciendo que sea de la forma más liviana posible-
+Para instalar helm lo vamos a hacer mediante un script y el comando curl.Esto nos permitira automatizar la instalación haciendo que sea de la forma más liviana posible.
 
 El contenido del script es:
 
