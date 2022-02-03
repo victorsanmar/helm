@@ -7,6 +7,6 @@
 4. [ Caso práctico: Instalar wordpress ](https://github.com/victorsanmar/k0s/blob/main/PrepServidor.md)
 
 ## Referencias
-
+[¿Que es helm?](https://www.aplyca.com/es/blog/helm-gestor-de-aplicaciones-para-kubernetes)
 ## Licencia
 ![Licencia](https://github.com/victorsanmar/k0s/blob/main/imagenes/licencia.PNG) 
